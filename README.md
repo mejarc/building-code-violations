@@ -23,4 +23,4 @@ This repo includes unit/feature tests in XYZ testing framework.
 
 ## Filing a bug or feature request
 
-Please submit to this application's [GitHub Issues page](xxx).
+Please submit to this application's [GitHub Issues page](https://github.com/mejarc/building-code-violations/issues).
