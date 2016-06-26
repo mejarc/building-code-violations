@@ -1,0 +1,23 @@
+{
+  "name": "building-code-violations",
+  "version": "1.0.0",
+  "description": "Developed by [Melanie Archer](link to repo).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejarc/building-code-violations.git"
+  },
+  "author": "Melanie Archer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mejarc/building-code-violations/issues"
+  },
+  "homepage": "https://github.com/mejarc/building-code-violations#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-csv-middleware": "^0.1.0"
+  }
+}
