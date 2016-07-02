@@ -1,0 +1,10 @@
+html
+  head
+    title= title
+  body
+    h1= message
+    dl
+      each violation, category in violations
+        dt #{category}
+        dd Number of violations: #{violation}
+        
