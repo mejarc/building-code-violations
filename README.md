@@ -1,25 +1,18 @@
-# name of app
+# building-code-violations
 
-Developed by [Melanie Archer](link to repo).
+Developed by [Melanie Archer](https://github.com/mejarc/building-code-violations/).
 
-Description of app...
 
 ## Installation
 
-clone, download, serve
+```
+$ git clone git@github.com:mejarc/building-code-violations.git
+```
 
-    $ how to run/start serving
+To start the Express server:
+    $ node index.js
 
-## Usage
-
-Browser URL, console command, screenshot
-
-## Running the tests
-
-This repo includes unit/feature tests in XYZ testing framework.
-
-    $ how to run tests
-
+The application will be accessible in the browser at `http://localhost:3000`.
 
 ## Filing a bug or feature request
 
